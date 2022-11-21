@@ -22,3 +22,4 @@
 ![Blog](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 
+![Snake animation](https://github.com/rmo02/rmo02/blob/output/github-contribution-grid-snake.svg)
